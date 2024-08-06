@@ -3,8 +3,7 @@
  * @return {number}
  */
 var argumentsLength = function(...args) {
-    let count=args.length
-    return count
+    return args.length
 };
 
 /**
